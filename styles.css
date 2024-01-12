@@ -1,0 +1,27 @@
+body{
+    color: #414141;
+    background-color: #EEEEEE;
+}
+h1{
+    font-family:"Helvatica","Arial",sans-serif;
+}
+h2{
+    font-family:"Helvatica","Arial",sans-serif;
+}
+h3{
+    font-family:"Helvatica","Arial",sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:"Helvatica","Arial",sans-serif;
+    font-weight: normal;
+}
+.ramil{
+    color: #0000ff;
+}
+
+.Dummy{
+    font-weight: bold;
+}
+.cosep{
+    text-decoration: none;
+}
